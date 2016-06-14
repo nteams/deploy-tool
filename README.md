@@ -11,6 +11,10 @@
    * wiki-blog 扩展模块：团队共享文档及个人博客模块
    * work-diary 扩展模块：工作日志记录
 
+## nteams 项目文件结构
+    为方便deploy-tool对各项目模块进行打包整合和部署，进行以下约定
+   > *  pass
+   > *  pass
+   > *  pass
+
 ## nteams 项目编码规范
-   > 为方便deploy-tool对各项目模块进行打包整合和部署，进行以下约定
-   *
